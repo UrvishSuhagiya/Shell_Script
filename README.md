@@ -6,5 +6,8 @@ I'm excited to embark on the 7 Days of Bash Scripting Challenge! This week-long 
 
 Challenge Progress:
 
-Day 1: Comments 
-In bash scripts, comments are used to add explanatory notes or disable certain lines of code. Your task is to create a bash script with comments explaining what the script does.
+# Day 1 : Basics  
+https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/DAY_1
+
+# Day 2 : Backup 
+https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/DAY_2
