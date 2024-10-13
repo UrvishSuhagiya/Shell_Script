@@ -24,10 +24,6 @@ Bash provides several built-in variables that hold useful information. Your task
 
 Wildcards are special characters used to perform pattern matching when working with files. Your task is to create a bash script that utilizes wildcards to list all the files with a specific extension in a directory.
 
-## Submission Instructions:
-
+##
 Create a single bash script that completes all the Tasks mentioned above. Add comments at appropriate places to explain what each part of the script does. Ensure that your script is well-documented and easy to understand.
 
-To submit your entry, create a GitHub repository and commit your script to it.
-
-Good luck with Day 1 of the Bash Scripting Challenge! Tomorrow, the difficulty will increase as we move on to more advanced concepts. Happy scripting!
