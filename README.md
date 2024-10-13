@@ -10,4 +10,4 @@ Challenge Progress:
 https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/DAY_1
 
 # Day 2 : Backup 
-https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/DAY_2
+https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_2
