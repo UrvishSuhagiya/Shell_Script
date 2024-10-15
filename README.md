@@ -11,3 +11,6 @@ https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/DAY_1
 
 # Day 2 : Backup 
 https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_2
+
+# Day 3 : User Account Management
+https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_3
