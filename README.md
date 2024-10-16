@@ -14,3 +14,9 @@ https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_2
 
 # Day 3 : User Account Management
 https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_3
+
+# Day 4 : Monitoring
+https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_4
+
+
+# Stay tuned for more updates! ⚡
