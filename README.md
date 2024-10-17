@@ -18,5 +18,8 @@ https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_3
 # Day 4 : Monitoring
 https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_4
 
+# Day 5 : Log Analyzer and Report Generator
+https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_5
+
 #
 # Stay tuned for more updates! ⚡
