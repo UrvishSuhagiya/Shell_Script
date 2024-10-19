@@ -325,3 +325,7 @@ You will create a simple web application and deploy it using Docker.
 Open your web browser and access the public IP addresses of DE2 and DE3. You should see the message "Hello from Docker on DE2 and DE3!" displayed.
 
 Congratulations! You have successfully set up and deployed a web application on AWS EC2 instances using Docker.
+
+# ✨
+Thank you, [Train With Shubham](https://www.trainwithshubham.com/), for this [BashBlaze-7-Days-of-Bash-Scripting-Challenge
+](https://github.com/LondheShubham153/BashBlaze-7-Days-of-Bash-Scripting-Challenge/tree/main)  challenge and its amazing journey and also Thank You to everyone who followed along! 🙌
