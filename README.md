@@ -24,5 +24,8 @@ https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_5
 # Day 6 : The Mysterious Script & 2 More
 https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_6
 
+# Day 7 : Mastering Server
+https://github.com/UrvishSuhagiya/Shell_Script/tree/main/Challenges/Day_7
+
 #
 # Stay tuned for more updates! ⚡
